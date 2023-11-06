@@ -1,16 +1,13 @@
-### Hi there 👋
+## Who is Simon?
 
-<!--
-**ranopashec/ranopashec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Student of the faculty of [FAMCS](https://fpmi.bsu.by/en/main.aspx) of the BSU
+## What kind of experience does he have?
 
-Here are some ideas to get you started:
+- Some linux knowledge
+- Some DSA and CS knowledge
+- 6 months of C++ learning 
+- Git (gitlab/githab) user
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## If you want to get in touch
+
+- telegram: @ranopashec
