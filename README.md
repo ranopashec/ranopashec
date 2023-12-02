@@ -4,7 +4,7 @@
 ## What kind of experience does he have?
 
 - Some linux knowledge
-- Some DSA and CS knowledge
+- Some CS knowledge
 - Some Go/C++ knowledge
 
 ## If you want to get in touch
