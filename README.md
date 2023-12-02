@@ -5,7 +5,7 @@
 
 - Some linux knowledge
 - Some DSA and CS knowledge
-- Some C++ learning 
+- Some Go/C++ knowledge
 
 ## If you want to get in touch
 
