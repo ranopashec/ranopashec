@@ -1,12 +1,22 @@
-## Who is Simon?
-
-- Student of [FAMCS](https://fpmi.bsu.by/en/main.aspx) of the BSU
-## What kind of experience does he have?
-
-- Some linux knowledge
-- Some CS knowledge
-- Some Go/C++ knowledge
-
-## If you want to get in touch
-
-- telegram: @ranopashec
+```cpp
+class AboutMe {
+/*
+Hey, I'm Simon, student of FAMCS of the BSU.
+I love open source and open science,
+efficiency and make an impact on the surrounding reality.
+*/
+private:
+  std::vector<std::string> learning_fields{
+     "Computer Science", "Psychology", "Economics", "Backend Development"
+  };
+  std::vector<std::string> languages {
+    "c++", "golang"};
+  std::vector<std::string> interests {
+    "learning new skills everyday",
+    "improving the living standards of people around",
+    "organizing projects, information, tasks",
+    "fiction" };
+public:
+  std::string Joke();
+};
+```
