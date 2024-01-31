@@ -7,16 +7,16 @@ efficiency and make an impact on the surrounding reality.
 */
 private:
   std::vector<std::string> learning_fields{
-     "Computer Science", "Psychology", "Economics", "Backend Development"
+     "Computer Science", "Psychology", "Economics", "Algorithms"
   };
   std::vector<std::string> languages {
-    "c++", "golang"};
+    "c++", "golang", "python"};
   std::vector<std::string> interests {
     "learning new skills everyday",
     "improving the living standards of people around",
     "organizing projects, information, tasks",
     "fiction" };
 public:
-  std::string Joke();
+  std::string tell_a_joke();
 };
 ```
