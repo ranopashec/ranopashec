@@ -7,7 +7,7 @@ efficiency and make an impact on the surrounding reality.
 */
 private:
   std::vector<std::string> learning_fields{
-     "Computer Science", "Psychology", "Economics", "Algorithms"
+     "Computer Science", "Psychology", "Economics"
   };
   std::vector<std::string> languages {
     "c++", "golang", "python"};
