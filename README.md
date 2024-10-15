@@ -1,2 +1,2 @@
-TACT (TON Blockchain) / Golang (backend) developer 
-telegram: @earlyplow
+### TACT (TON Blockchain) / Golang (backend) developer 
+### telegram: @earlyplow
